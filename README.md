@@ -6,7 +6,8 @@ This is a body mass index app to determine the approximate body mass of the inpu
 My Mass is a project I created as a part of my iOS development learning. This project allowed me to learn how to use slide indicators, screen segues, MVC structuring, and much more. 
 The UI/UX is all original by my design and the background color changes depending upon the outcome of the results delivered. 
 
-![MyMassIndex_iPhone14](https://user-images.githubusercontent.com/79613749/230907170-5c0ec9b0-3135-432f-ad1d-c249ff97522a.png)
+
+![MyMassIndex_iPhone14](https://user-images.githubusercontent.com/79613749/231839900-dc7e2d9c-7554-46c8-ab15-4802c52c5a7e.png)
 
 ## User Installation:
 
