@@ -3,7 +3,7 @@
 This is a body mass index app to determine the approximate body mass of the input information. 
 
 ### About
-This app was built as a part of my online iOS development bootcamp from Angela Yu on Udemy. I took some of this app and made it my own. I design the UI, color scheme & app icon for this app. This project allowed me to learn how to use slide indicators, screen segues, MVC structuring, and much more. 
+This app was built as a part of my online iOS development bootcamp from Angela Yu on Udemy. I took some of this app and made it my own. I design the UI, launch screen, color scheme & app icon for this app. This project allowed me to learn how to use slide indicators, screen segues, MVC structuring, and much more. 
 The UI/UX is all original by my design and the background color changes depending upon the outcome of the results delivered. 
 
 
