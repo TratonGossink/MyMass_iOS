@@ -19,11 +19,6 @@ class CalcViewController: UIViewController {
     
     @IBOutlet weak var weightSlider: UISlider!
     
-    
-    
-    
-    
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
@@ -56,7 +51,6 @@ class CalcViewController: UIViewController {
             destinationVC.advice = calculatorBrain.getAdvice()
             destinationVC.color = calculatorBrain.getColor()
         }
-        
         
     }
     
